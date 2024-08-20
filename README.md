@@ -13,4 +13,7 @@
 #### . Form validation and request handling
 #### . Pagination and search functionality
 #### . Testing with Pest
-.
+
+<hr>
+
+![image](https://github.com/user-attachments/assets/55aa5c1a-bd2a-4a27-8e63-51b139778c98)
