@@ -1,19 +1,21 @@
-# <h1>Pixel Positions - Laravel Project</h1>
-<p>Welcome to the Pixel Positions project, a part of the "30 Days of Laravel" series from Laracasts. This project demonstrates various Laravel features by building an application that allows users to manage and publish job listings.</p>
+# Pixel Positions - Laravel Project
 
-## <h2>Project Overview</h2>
-<p>The Job Listings project is a Laravel-based web application that enables users to create, view, and manage job postings. The project is part of the "30 Days of Laravel" series from Laracasts, which covers a wide range of Laravel features and best practices.</p>
+Welcome to **Pixel Positions**, a project that's part of the **"30 Days of Laravel"** series from Laracasts. This project showcases various Laravel features by building an application that allows users to manage and publish job listings.
 
-## <h3>Key Concept Covered</h3>
+## Project Overview
 
-#### . Laravel authentication system
-#### . Route and controller setup
-#### . Database migrations and Eloquent ORM
-#### . Blade templating and frontend design
-#### . Form validation and request handling
-#### . Pagination and search functionality
-#### . Testing with Pest
+The **Pixel Poistions** project is a web application built with Laravel. It provides users the ability to create, view, and manage job postings. As a part of Laracasts' "30 Days of Laravel" series, this project covers essential Laravel concepts and best practices.
 
-<hr>
+## Key Concepts Covered
 
-![image](https://github.com/user-attachments/assets/55aa5c1a-bd2a-4a27-8e63-51b139778c98)
+- **Laravel Authentication System**
+- **Route and Controller Setup**
+- **Database Migrations and Eloquent ORM**
+- **Blade Templating and Frontend Design**
+- **Form Validation and Request Handling**
+- **Pagination and Search Functionality**
+- **Testing with Pest**
+
+---
+
+![Project Image](https://github.com/user-attachments/assets/55aa5c1a-bd2a-4a27-8e63-51b139778c98)
